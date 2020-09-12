@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/SondosAhmed/npm-lab-re-coded_sanaa_web001/issues"
   },
-  "homepage": "https://github.com/SondosAhmed/npm-lab-re-coded_sanaa_web001#readme"
+  "homepage": "https://github.com/SondosAhmed/npm-lab-re-coded_sanaa_web001#readme",
+  "dependencies": {
+    "moment": "^2.27.0"
+  }
 }
